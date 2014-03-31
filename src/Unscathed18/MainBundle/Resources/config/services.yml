@@ -1,0 +1,7 @@
+parameters:
+#    unscathed18_main.example.class: Unscathed18\MainBundle\Example
+
+services:
+#    unscathed18_main.example:
+#        class: %unscathed18_main.example.class%
+#        arguments: [@service_id, "plain_value", %parameter%]
